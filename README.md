@@ -18,7 +18,7 @@
   [![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge&color=FF5722)](#)
   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](#)
 
-  *Mesin otomatis untuk menembus iklan (bypass) SafelinkU dan Safefileku secara langsung. Terintegrasi penuh dengan Telegram untuk hasil instan tanpa harus pusing nunggu timer atau kena jebakan pop-up.*
+  *Mesin otomatis untuk menembus iklan ShortLink secara langsung. Terintegrasi penuh dengan Telegram untuk hasil instan tanpa harus pusing nunggu timer atau kena jebakan pop-up.*
 </div>
 
 ---
