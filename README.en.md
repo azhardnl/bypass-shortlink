@@ -18,7 +18,7 @@
   [![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge&color=FF5722)](#)
   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](#)
 
-  *Automated engine to seamlessly bypass SafelinkU and Safefileku shortlinks directly. Fully integrated with Telegram for instant results without dealing with timers or pop-up traps.*
+  *Automated engine to seamlessly bypass Shortlinks directly. Fully integrated with Telegram for instant results without dealing with timers or pop-up traps.*
 </div>
 
 ---
