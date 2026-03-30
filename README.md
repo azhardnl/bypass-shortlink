@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="public/levincia-banner.png" alt="Levincia Org Banner" width="100%" style="border: 4px solid #000; border-radius: 0px;" />
+  <img src="levincia-banner.png" alt="Levincia Org Banner" width="100%" style="border: 4px solid #000; border-radius: 0px;" />
 
   <br/><br/>
 
@@ -35,8 +35,8 @@
 
 <div align="center">
   <a href="https://t.me/lvcorg_bot">
-    <!-- Ganti 'docs/telegram-demo.png' dengan path gambar screenshot di repo lu -->
-    <img src="docs/telegram-demo.png" alt="Telegram Bot Demo" style="border: 4px solid #000; box-shadow: 8px 8px 0px #000; max-width: 600px; width: 100%;" />
+    <!-- Tinggal upload screenshotnya (namain telegram-demo.png) bareng sama README -->
+    <img src="telegram-demo.png" alt="Telegram Bot Demo" style="border: 4px solid #000; box-shadow: 8px 8px 0px #000; max-width: 600px; width: 100%;" />
   </a>
   <p><i>Uji coba langsung lewat Bot Telegram Levincia</i></p>
 </div>
